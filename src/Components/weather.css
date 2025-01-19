@@ -3,9 +3,9 @@
     padding: 20px;
     border-radius: 10px;
     background: #81BFDA;
-    display: flex;
+    display: grid;
     align-items: center;
-    flex-direction: column;
+
 }
 
 .search-box {
