@@ -9,6 +9,8 @@
 
 .app {
   min-height: 100vh;
-  background: #B1F0F7;
-  display: grid;
+  min-width: 100vw;
+  background-color: #B1F0F7;
+  display: flex;
+  flex-direction: column;
 }
