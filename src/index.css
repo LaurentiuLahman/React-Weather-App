@@ -8,7 +8,7 @@
 }
 
 .app {
-  min-height: 100vw;
+  min-height: 100vh;
   background: #B1F0F7;
   display: grid;
 }
